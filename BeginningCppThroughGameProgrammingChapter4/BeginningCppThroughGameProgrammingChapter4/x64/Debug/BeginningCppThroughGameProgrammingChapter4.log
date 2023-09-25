@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Emily\source\repos\BeginningCppThroughGameProgrammingChapter4\BeginningCppThroughGameProgrammingChapter4\Source.cpp(81,10): warning C4129: '`': unrecognized character escape sequence
+C:\Users\Emily\source\repos\BeginningCppThroughGameProgrammingChapter4\BeginningCppThroughGameProgrammingChapter4\Source.cpp(94,10): warning C4129: '`': unrecognized character escape sequence
+C:\Users\Emily\source\repos\BeginningCppThroughGameProgrammingChapter4\BeginningCppThroughGameProgrammingChapter4\Source.cpp(111,10): warning C4129: '`': unrecognized character escape sequence
+C:\Users\Emily\source\repos\BeginningCppThroughGameProgrammingChapter4\BeginningCppThroughGameProgrammingChapter4\Source.cpp(116,11): warning C4129: '`': unrecognized character escape sequence
+  BeginningCppThroughGameProgrammingChapter4.vcxproj -> C:\Users\Emily\source\repos\BeginningCppThroughGameProgrammingChapter4\x64\Debug\BeginningCppThroughGameProgrammingChapter4.exe
